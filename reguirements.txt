@@ -1,0 +1,6 @@
+echo "python-nmap
+matplotlib
+scapy
+gps3
+pandas
+PyYAML" > ~/requirements.txt
